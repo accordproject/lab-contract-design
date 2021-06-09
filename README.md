@@ -9,3 +9,6 @@ Design document for Smart Legal Contracts Templates and Instances
 
 [Draft Design Document - WIP](https://docs.google.com/document/d/1so_5LMNHEeBaF8K_1dgDYXN9ymS2VjmNR0eKWC06chs/edit?usp=sharing)
 - Draft design document to bring all of the above together.
+
+[Kanban Board](https://github.com/orgs/accordproject/projects/13)
+- Project board of tasks
