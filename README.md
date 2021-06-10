@@ -12,3 +12,5 @@ Design document for Smart Legal Contracts Templates and Instances
 
 [Kanban Board](https://github.com/orgs/accordproject/projects/13)
 - Project board of tasks
+
+[Slack Channel #gsoc-contract-design](https://accord-project.slack.com/archives/C02378XLYHG)
